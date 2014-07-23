@@ -1,11 +1,11 @@
 {
-	"name": "clooder/cakeless",
-    "description": "Cakephp Less ",
-    "license": "MIT",
-    "keywords": ["cakephp", "less"], 
-    "type": "cakephp-plugin",
-    "minimum-stability" : "dev", 
-	             
+   "name": "clooder/cakeless",
+   "description": "Cakephp Less ",
+   "license": "MIT",
+   "keywords": ["cakephp", "less"], 
+   "type": "cakephp-plugin",
+   "minimum-stability" : "dev", 
+
    "require": {
    		"php": ">=5.3.0",
         "composer/installers": "*",
