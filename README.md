@@ -17,7 +17,7 @@ In your plugin directory type
 In your root cakephp 
 
 	"require" : {
-		"cakephp/less": "dev-master"
+		"clooder/cakeless": "dev-master"
 	}
 	
 	composer install
